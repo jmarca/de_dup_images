@@ -1,0 +1,25 @@
+{
+  "name": "de_dup_images",
+  "version": "0.0.1",
+  "description": "Due to bad planning, I need to de-duplicate my images",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmarca/de_dup_images"
+  },
+  "keywords": [
+    "duplicate",
+    "images",
+    "de-duplicate",
+    "images"
+  ],
+  "author": "James E. Marca",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/jmarca/de_dup_images/issues"
+  },
+  "homepage": "https://github.com/jmarca/de_dup_images"
+}
