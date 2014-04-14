@@ -24,6 +24,9 @@
   "homepage": "https://github.com/jmarca/de_dup_images",
   "dependencies": {
     "libexif": "~0.1.0",
-    "glob": "~3.2.9"
+    "glob": "~3.2.9",
+    "async": "~0.6.2",
+    "makedir": "0.0.11",
+    "nomnom": "~1.6.2"
   }
 }
