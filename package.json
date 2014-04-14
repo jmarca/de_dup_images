@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/jmarca/de_dup_images",
   "dependencies": {
-    "libexif": "~0.1.0"
+    "libexif": "~0.1.0",
+    "glob": "~3.2.9"
   }
 }
